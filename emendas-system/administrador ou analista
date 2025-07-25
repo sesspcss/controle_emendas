@@ -1,0 +1,2 @@
+emendas = relationship("Emenda", back_populates="responsavel")
+
